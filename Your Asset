@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rommel B. Jacinto Jr. | Virtual Assistant</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background: #0077b6;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+      max-width: 1000px;
+      margin: auto;
+      background: #fff;
+      margin-bottom: 10px;
+    }
+    h1, h2, h3 {
+      color: #0077b6;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    footer {
+      text-align: center;
+      padding: 10px;
+      background: #0077b6;
+      color: white;
+    }
+    .download-button {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 10px 20px;
+      background-color: #023e8a;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    @media (max-width: 768px) {
+      body, header, section, footer {
+        padding: 10px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Rommel B. Jacinto Jr.</h1>
+    <p>Virtual Assistant | Project Manager | Social Media Strategist</p>
+    <p>Roxas City, Capiz 5800 | +63 927 086 4789 | jacintorommeljr@gmail.com</p>
+    <a href="Rommel_B_Jacinto_Resume.pdf" download class="download-button">Download My Resume</a>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Results-oriented Virtual Assistant with 4 years of experience providing administrative support, managing projects, and enhancing social media engagement. Known for improving processes and delivering results in both government and private settings.</p>
+  </section>
+
+  <section>
+    <h2>Key Skills</h2>
+    <ul>
+      <li>Appointment Setting & Calendar Management</li>
+      <li>Project Management</li>
+      <li>Video Editing & Graphic Design</li>
+      <li>Email & Travel Management</li>
+      <li>Microsoft Suite Proficiency</li>
+      <li>Social Media Strategy</li>
+      <li>Research & Data Compilation</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Professional Experience</h2>
+    <h3>Administrative Assistant Officer | Public Employment Service Office | Oct 2020 – Present</h3>
+    <ul>
+      <li>Increased social media engagement by 10% through strategic content updates.</li>
+      <li>Trained new staff in encoding and updating employment system files.</li>
+      <li>Prepared and presented 7+ job fair reports to DOLE.</li>
+      <li>Recognized as Best PESO Office in Western Visayas Region.</li>
+      <li>Organized monthly reports and recruitment records.</li>
+    </ul>
+    <h3>Enumerator | PSA Census 2020 | Jul 2020 – Oct 2020</h3>
+    <ul>
+      <li>Collected and verified household data for national census.</li>
+      <li>Explained and assisted respondents in survey completion.</li>
+      <li>Ensured accuracy and consistency of gathered information.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Education</h2>
+    <p><strong>Bachelor of Science in Fisheries</strong><br/>Capiz State University Dayao Satellite College | 2015 – 2020</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Rommel B. Jacinto Jr. All rights reserved.</p>
+    <p>Made with passion for productivity and creativity.</p>
+  </footer>
+</body>
+</html>
